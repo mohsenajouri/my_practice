@@ -73,3 +73,13 @@ div .Rwin2 {
   text-align: center;
   color: blue!important;
 }
+.Rwin3 P{
+font-size: 2.5rem;
+text-align: center;
+color: chartreuse;
+}
+
+div h5.text-danger{
+  text-align: center;
+  color: blue!important;
+}
