@@ -49,11 +49,27 @@
   border-style: dotted solid groove double;
   border-color: red blue green black;
 }
-h2{text-align: center;
-color: #0c4c7d;
+h2 {
+  text-align: center;
+  color: #0c4c7d;
 }
-h3{
+h3 {
   text-align: center;
   border: 10px dotted gray;
   font-size: 35px;
+}
+.Rwin {
+  text-align: center;
+  font-size: 80px;
+  color: gray !important;
+}
+.Rwin {
+  text-align: center;
+  font-size: 35px;
+  color: blueviolet !important;
+}
+div .Rwin2 {
+  background-color: red;
+  text-align: center;
+  color: blue!important;
 }
